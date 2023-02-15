@@ -1,2 +1,2 @@
 #!/bin/bash
-git -C ~/klipper_config/.theme pull
+git -C ~/printer_data/config/.theme pull
